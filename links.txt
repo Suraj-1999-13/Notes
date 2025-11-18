@@ -1,5 +1,10 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWFmYjdiNGUtNGZjMC00NDliLTlmZTUtNDM0NWY1Zjk1ZjRj%40thread.v2/0?context=%7b%22Tid%22%3a%22f9aeb8ae-3ad2-4947-a6c0-f606f32f91bb%22%2c%22Oid%22%3a%22920ca732-97f9-4c04-af69-d9ed4f1baaf1%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODZmODcxZDItMjEzYi00MzdlLWJmY2MtYjhhOWQ4Y2FiNTE3%40thread.v2/0?context=%7b%22Tid%22%3a%222342f2b2-10ee-42ca-b748-466b2109aa3f%22%2c%22Oid%22%3a%22db4ab06a-128f-4d14-8454-a96096a22c65%22%7d
+
+Meeting ID: 437 900 799 534 12
+
+Passcode: Mz9xk66u
 
 
 https://www.hungrycoders.com/blog/api-patterns-rest-vs-graphql-vs-grpc
+
 
