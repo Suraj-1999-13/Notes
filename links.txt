@@ -8,3 +8,13 @@ Passcode: Mz9xk66u
 https://www.hungrycoders.com/blog/api-patterns-rest-vs-graphql-vs-grpc
 
 
+
+https://medium.com/@shubhm_wrts/exception-handling-in-java-complete-overview-29c7844f6636
+https://engineeringdigest.medium.com/generics-b158a743d18f
+https://engineeringdigest.medium.com/multithreading-in-java-39f34724bbf6
+
+
+https://medium.com/@pratik.941/important-jpa-interview-questions-a-detailed-guide-5c1405e0927b
+https://medium.com/@pratik.941/spring-vs-spring-boot-understanding-the-key-differences-with-examples-aff8f27d243d
+https://medium.com/@pratik.941/building-rest-api-using-spring-boot-a-comprehensive-guide-3e9b6d7a8951
+https://medium.com/@pratik.941/mastering-hibernate-key-interview-questions-3bcc5f2b7775
